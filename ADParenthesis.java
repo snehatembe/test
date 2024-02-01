@@ -38,5 +38,6 @@ public class ADParenthesis {
         String expression = "2*3-4*5";
         List<Integer> result = diffWaysToCompute(expression);
         System.out.println(result);
+        System.out.println(result);
     }
 }
